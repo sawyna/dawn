@@ -1,0 +1,5 @@
+#python files
+*.pyc
+
+#personal config
+config_me.py
